@@ -25,7 +25,7 @@ def get_db_connection():
     return pymysql.connect(
         host='localhost',
         user='root',
-        password='btsbutter123',  # Remember to change this!
+        password='password',  # Remember to change this!
         db='food',
         cursorclass=pymysql.cursors.DictCursor
     )
