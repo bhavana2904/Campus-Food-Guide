@@ -2,8 +2,8 @@
 ### UE23CS351A – Database Management System Mini Project  
 
 ## Project Overview
-The **Campus Food Guide** is a web-based application designed to help PES University students, faculty, and staff explore food options available across different campus canteens.  
-It enables users to browse menus, read authentic peer reviews, view prices and ratings, and make informed dining choices — all within a centralized, easy-to-use platform.
+The **Campus Food Guide** is a web-based application designed to help PES University students, faculty, and staff explore food options available across campus canteens.  
+It enables users to read authentic peer reviews, view prices and ratings, and make informed dining choices — all within a centralized, easy-to-use platform.
 
 ---
 
